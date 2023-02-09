@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "discovery-server",
+			"path": "discovery-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"path": "supermercado"
+		},
+		{
+			"path": "compras"
+		},
+		{
+			"name": "SuperMercado_Prova",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "disabled",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
